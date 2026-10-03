@@ -1,0 +1,40 @@
+SAMPLE 01 – PHISHING EMAIL
+
+Subject: [Action Required] Unusual sign-in activity on your account
+
+From: "Microsoft Account Team" <noreply@microsoftonline-verify[.]com>
+
+To: jacobcookofficial@gmail[.]com
+
+Date: Thu, 06 Feb 2026 17:14:18 +0000
+
+-------------------------------
+
+EMAIL BODY
+
+Microsoft Account Security Alert
+
+We detected something unusual about a recent sign-in to your Microsoft account.
+
+Country/region: Russia
+IP address: 91[.]234[.]99[.]42
+Date: February 6, 2026 4:32 AM UTC
+Platform: Windows 10
+Browser: Chrome 120.0
+
+If this was you, you can ignore this message. If this wasn't you, please secure your account immediately.
+
+Review recent activity:
+https://bit[.]ly/3vF9xKz
+
+This is a mandatory service notification. You are receiving this because your account requires immediate attention.
+
+---------------------------------
+
+HEADER AUTHENTICATION RESULTS
+
+SPF: FAIL
+DKIM: FAIL
+DMARC: FAIL
+
+Sending IP: 178[.]238[.]225[.]91
